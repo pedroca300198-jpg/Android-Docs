@@ -8,5 +8,4 @@ Following lists docs for [Android Apps](https://developer.android.com/docs).
 - [Processes](processes/index.md)
 
 ---
-
 &nbsp;
